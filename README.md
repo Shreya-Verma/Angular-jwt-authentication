@@ -1,6 +1,6 @@
 # Angular JWT Authentication
 
-This tiny little application includes  the process of how the functionality of JWT Authentication is done.
+This  little application includes  the process of how the functionality of JWT Authentication is done.
 Technologies used are :
 
 1. Angular 6
